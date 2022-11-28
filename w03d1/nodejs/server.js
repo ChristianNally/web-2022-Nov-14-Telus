@@ -16,7 +16,6 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 const db = require('./db/todos');
-const todos = require('./db/todos');
 
 const port = 3000;
 
